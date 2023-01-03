@@ -4,4 +4,4 @@
 - JS
 - PHP
 
-My page [hire](https://kamilyakamirdinova.github.io/ai_club_site/)
+My page [hire](https://kamilyakamirdinova.github.io/Ai_club_site/)
