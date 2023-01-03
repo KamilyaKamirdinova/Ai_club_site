@@ -4,4 +4,4 @@
 - JS
 - PHP
 
-Can you view [my site](https://kamilyakamirdinova.github.io/Ai_club_site/)
+Can you view [my site](https://kamilyakamirdinova.github.io/Ai_club_site/).
