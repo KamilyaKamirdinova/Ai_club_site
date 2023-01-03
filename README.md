@@ -1,6 +1,6 @@
 # Ai_club_site
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 - JS
 - PHP
 
